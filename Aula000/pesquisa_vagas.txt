@@ -22,3 +22,9 @@ Faixa Salarial Maringá-PR:
 Júnior: R$ 3.500 a R$ 5.000 mensais (foco em integrações, ETL e automações básicas).
 Pleno: R$ 6.000 a R$ 9.000 mensais (desenvolvimento de APIs, web e manipulação de dados)
 Sênior / Especialista (RPA ou Dados): R$ 9.000 a R$ 11.000+ mensais (arquitetura de software e automações complexas)
+
+Paradigmas do Python
+Imperativo: programa executa comandos em sequência.
+Orientado a Objetos (POO): usa classes e objetos.
+Funcional: permite usar funções como valores (lambda, map, filter, reduce).
+Procedural: organiza o código em funções e procedimentos.
