@@ -1,4 +1,16 @@
-VAGAS ABERTAS:
+input(): recebe um valor do usuário.
+int(): transforma o texto em número.
+numero: guarda o valor digitado.
+for: repete um bloco de código.
+range(1, 11): gera números de 1 a 10.
+i: recebe cada número do range.
+resultado = numero * i: faz a multiplicação.
+print(): mostra o resultado na tela.
+f"{}": insere variáveis no texto.
+Exibe a tabuada, por exemplo: 5 x 3 = 15.
+
+
+VAGAS ABERTAS: Poucas vagas
 
 1 - Dev. Python - São Paulo-SP - ~ R$ 6.000,00 (Desenvolvedor Pleno) - INDEED
 1 - Desenvolvedor Automação de Processos - Maringá-PR - (sem faixa salarial) - LINKEDIN
